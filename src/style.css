@@ -22,6 +22,10 @@
     margin-top: 10px;
 }
 
+.card-dois {
+    color: darkred;
+}
+
 .btn {
     background-color: darkred;
     color: white;
